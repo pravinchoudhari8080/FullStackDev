@@ -9,4 +9,9 @@ public class Calculator {
 	{
 		System.out.println("addition method");
 	}
+	
+	public void   subb()
+	{
+		System.out.println("sub method");
+	}
 }
